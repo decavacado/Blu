@@ -36,4 +36,4 @@ var button = new Blu("button", {
 	}
 })
 ```
-All you have to do to register the event now is make an instance of the Blu constructor.You first pass in the id of the element(It has to be an ID cant be anything else) then you pass in an object with the methods this element can use.Once you do this your element should be registered and the hello function will be called when the button is clicked.
+All you have to do to register the event now is to make  an instance of the Blu constructor.You first pass in the id of the element(It has to be an ID cant be anything else) then you pass in an object with the methods this element can use.Once you do this your element should be registered and the hello function will be called when the button is clicked.
